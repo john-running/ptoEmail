@@ -1,6 +1,6 @@
 # ptoEmail
 
-This email was generated for the PTO using https://bootstrapemail.com/
+This template was generated for the PTO using https://bootstrapemail.com/
 
 To send the email as is, copy the contents of renderedEmailTemplate.html into your email service provider (e.g. mailchimp, constant contact, etc.), then send the email.
 
